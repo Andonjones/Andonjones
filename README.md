@@ -24,7 +24,7 @@ I'm building my career in cybersecurity with a hands-on background in troublesho
 
 Projects being documented include:
 
-- **Pi-nator** — Portable Linux and network security experimentation platform
+- **Pi-enator** — Portable Linux and network security experimentation platform
 - **FLSUN V400 Recovery & Klipper Conversion** — Linux, SSH, firmware, configuration, and hardware repair
 - **LiPo Battery Checker** — RP2040/MicroPython hardware and software project
 - **Freedom Router** — OpenWrt router modification and networking project
